@@ -1,0 +1,58 @@
+{
+  "type": "usr",
+  "name": "kumiko",
+  "displayName": "久美子",
+  "suffix": ".png",
+  "retinaSuffix": ".png",
+  "imgClass": "medium",
+  "container": [
+    {
+      "icon": "azhe",
+      "text": "啊这"
+    },
+    {
+      "icon": "buxie",
+      "text": "不屑"
+    },
+    {
+      "icon": "daizhi",
+      "text": "呆滞"
+    },
+    {
+      "icon": "haomafana",
+      "text": "好麻烦啊"
+    },
+    {
+      "icon": "jingya",
+      "text": "惊讶"
+    },
+    {
+      "icon": "jingya2",
+      "text": "惊讶"
+    },
+    {
+      "icon": "jingya3",
+      "text": "惊讶"
+    },
+    {
+      "icon": "kunrao",
+      "text": "困扰"
+    },
+    {
+      "icon": "renzhen",
+      "text": "认真"
+    },
+    {
+      "icon": "tanqi",
+      "text": "叹气"
+    },
+    {
+      "icon": "wuyu",
+      "text": "无语"
+    },
+    {
+      "icon": "wuyu2",
+      "text": "无语"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "type": "usr",
+  "name": "quyin",
+  "displayName": "蛆音娘",
+  "suffix": ".png",
+  "retinaSuffix": ".png",
+  "imgClass": "medium",
+  "container": [
+    {
+      "icon": "hematemesis",
+      "text": "吐血"
+    },
+    {
+      "icon": "1huaji",
+      "text": "滑稽"
+    },
+    {
+      "icon": "amazing",
+      "text": "吃惊"
+    },
+    {
+      "icon": "angry",
+      "text": "生气"
+    },
+    {
+      "icon": "cry",
+      "text": "哭泣"
+    },
+    {
+      "icon": "die",
+      "text": "die"
+    },
+    {
+      "icon": "doubt",
+      "text": "疑问"
+    },
+    {
+      "icon": "feizao",
+      "text": "肥皂"
+    },
+    {
+      "icon": "fue",
+      "text": "扶额"
+    },
+    {
+      "icon": "heng",
+      "text": "哼"
+    },
+    {
+      "icon": "laughing",
+      "text": "大笑"
+    },
+    {
+      "icon": "look",
+      "text": "偷看"
+    },
+    {
+      "icon": "maimeng",
+      "text": "卖萌"
+    },
+    {
+      "icon": "OK",
+      "text": "OK！"
+    },
+    {
+      "icon": "scare",
+      "text": "吓死宝宝惹"
+    },
+    {
+      "icon": "shakinghead",
+      "text": "摇头"
+    },
+    {
+      "icon": "sleep",
+      "text": "睡觉"
+    },
+    {
+      "icon": "speechless",
+      "text": "无语"
+    },
+    {
+      "icon": "watermaleon",
+      "text": "吃瓜"
+    },
+    {
+      "icon": "witty",
+      "text": "机智"
+    }
+  ]
+}
